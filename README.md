@@ -5,8 +5,8 @@
 
 ###
 
-<p align="left">i code for fun 🤓</p>
-<p align="left">im currently working at <a href="https://makassarwebsite.com/">Makassar Website</a></p>
+<p align="left">i code for fun 🤓. Currently working at <a href="https://makassarwebsite.com/">Makassar Website</a></p>
+
 
 ###
 
