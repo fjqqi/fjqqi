@@ -1,73 +1,58 @@
-<div align="center" style="max-width: 760px; margin: auto; font-family: ui-serif, Georgia, serif;">
+<p align="left">Hello World!!</p>
 
-<h1 style="font-weight: 500; margin-bottom: 0;">Welcome, <i>Fiqqi</i>.</h1>
-<p style="font-size: 15px; color: #444; margin-top: 6px;">
-Here’s a little corner of the internet where I build things for fun.  
-Calm pixels, clean code, soft chaos.
-</p>
+###
 
+<h3 align="left">Hello, I'm Fiqqi</h3>
+
+###
+
+<p align="left">i code for fun 🤓</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
 </div>
 
----
+###
 
-### Projects
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin: 16px 0;">
-  
-<div style="border: 1px solid #ddd; padding: 0; background: #f6f6f3;">
-  <div style="background: #e7f0ff; height: 110px;"></div>
-  <div style="padding: 14px; font-family: ui-sans-serif, system-ui;">
-    <strong>Personal Site</strong><br/>
-    <span style="font-size: 13px; color:#666;">Next.js · ongoing</span>
-  </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/faqih-basri-a54656299/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/fjqqi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://dribbble.com/fiqqi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.instagram.com/fjqqi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
-<div style="border: 1px solid #ddd; background: #f6f6f3;">
-  <div style="background: #ffe8ef; height: 110px;"></div>
-  <div style="padding: 14px; font-family: ui-sans-serif, system-ui;">
-    <strong>Movie Grid Maker</strong><br/>
-    <span style="font-size: 13px; color:#666;">React · API</span>
-  </div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjqqi/fjqqi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fjqqi/fjqqi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fjqqi/fjqqi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/rnkg484sozzdjdv4u70xdc8hj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rnkg484sozzdjdv4u70xdc8hj&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
-<div style="border: 1px solid #ddd; background: #f6f6f3;">
-  <div style="background: #eaf7e8; height: 110px;"></div>
-  <div style="padding: 14px; font-family: ui-sans-serif, system-ui;">
-    <strong>Coffee Sales Dashboard</strong><br/>
-    <span style="font-size: 13px; color:#666;">Python · Data Viz</span>
-  </div>
-</div>
-
-</div>
-
----
-
-### Social
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-top: 10px;">
-
-<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
-  <strong>GitHub</strong><br/>
-  <a href="https://github.com/YOUR_USERNAME" style="font-size: 14px; color:#555;">github.com/your_username</a>
-</div>
-
-<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
-  <strong>Instagram</strong><br/>
-  <a href="https://instagram.com/YOUR_HANDLE" style="font-size: 14px; color:#555;">instagram.com/your_handle</a>
-</div>
-
-<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
-  <strong>LinkedIn</strong><br/>
-  <a href="https://linkedin.com/in/YOUR_PROFILE" style="font-size: 14px; color:#555;">linkedin.com/in/your_profile</a>
-</div>
-
-<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
-  <strong>Email</strong><br/>
-  <a href="mailto:your@email.com" style="font-size: 14px; color:#555;">your@email.com</a>
-</div>
-
-</div>
-
----
-
-<div align="center" style="font-size: 13px; color: #777; margin-top: 30px;">
-<i>done</i>
-</div>
+###
