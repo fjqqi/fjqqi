@@ -6,6 +6,7 @@
 ###
 
 <p align="left">i code for fun 🤓</p>
+<p align="left">im currently working at <a href="https://makassarwebsite.com/">Makassar Website</a></p>
 
 ###
 
@@ -40,11 +41,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjqqi/fjqqi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fjqqi/fjqqi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fjqqi/fjqqi/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
