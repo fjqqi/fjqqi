@@ -1,35 +1,45 @@
 <div align="center">
 
-<h2>👋 Hey, I'm <strong>Fiqqi</strong></h2>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&bg_color=ffffff00" width="0" height="0">
 
-✨ <em>I code for fun.</em>  
-Tiny worlds built with keys, caffeine, and curiosity.
+<h2 style="font-weight:500; color:#111; letter-spacing:-0.5px;">fiqqi</h2>
+<p style="color:#555; margin-top:-10px;">i code for fun</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41" alt="GitHub Stats" width="55%" />
+<br/><br/>
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="IMAGE_URL_1" width="80"/><br/>
+      <sub style="color:#555;">strawb</sub>
+    </td>
+    <td align="center">
+      <img src="IMAGE_URL_2" width="80"/><br/>
+      <sub style="color:#555;">patty</sub>
+    </td>
+    <td align="center">
+      <img src="IMAGE_URL_3" width="80"/><br/>
+      <sub style="color:#555;">glass</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="IMAGE_URL_4" width="80"/><br/>
+      <sub style="color:#555;">mug</sub>
+    </td>
+    <td align="center">
+      <img src="IMAGE_URL_5" width="80"/><br/>
+      <sub style="color:#555;">orange</sub>
+    </td>
+    <td align="center">
+      <img src="IMAGE_URL_6" width="80"/><br/>
+      <sub style="color:#555;">tote</sub>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Connect with me
+<br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/YOUR_PROFILE">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
----
-
-### 🎮 Press Start  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Building+stuff;Breaking+stuff;Learning+always" />
+<sub style="color:#888;">[ press start ]</sub>
 
 </div>
