@@ -1,45 +1,73 @@
-<div align="center">
+<div align="center" style="max-width: 760px; margin: auto; font-family: ui-serif, Georgia, serif;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&bg_color=ffffff00" width="0" height="0">
+<h1 style="font-weight: 500; margin-bottom: 0;">Welcome, <i>Fiqqi</i>.</h1>
+<p style="font-size: 15px; color: #444; margin-top: 6px;">
+Here’s a little corner of the internet where I build things for fun.  
+Calm pixels, clean code, soft chaos.
+</p>
 
-<h2 style="font-weight:500; color:#111; letter-spacing:-0.5px;">fiqqi</h2>
-<p style="color:#555; margin-top:-10px;">i code for fun</p>
+</div>
 
-<br/><br/>
+---
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="IMAGE_URL_1" width="80"/><br/>
-      <sub style="color:#555;">strawb</sub>
-    </td>
-    <td align="center">
-      <img src="IMAGE_URL_2" width="80"/><br/>
-      <sub style="color:#555;">patty</sub>
-    </td>
-    <td align="center">
-      <img src="IMAGE_URL_3" width="80"/><br/>
-      <sub style="color:#555;">glass</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="IMAGE_URL_4" width="80"/><br/>
-      <sub style="color:#555;">mug</sub>
-    </td>
-    <td align="center">
-      <img src="IMAGE_URL_5" width="80"/><br/>
-      <sub style="color:#555;">orange</sub>
-    </td>
-    <td align="center">
-      <img src="IMAGE_URL_6" width="80"/><br/>
-      <sub style="color:#555;">tote</sub>
-    </td>
-  </tr>
-</table>
+### Projects
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin: 16px 0;">
+  
+<div style="border: 1px solid #ddd; padding: 0; background: #f6f6f3;">
+  <div style="background: #e7f0ff; height: 110px;"></div>
+  <div style="padding: 14px; font-family: ui-sans-serif, system-ui;">
+    <strong>Personal Site</strong><br/>
+    <span style="font-size: 13px; color:#666;">Next.js · ongoing</span>
+  </div>
+</div>
 
-<br/><br/>
+<div style="border: 1px solid #ddd; background: #f6f6f3;">
+  <div style="background: #ffe8ef; height: 110px;"></div>
+  <div style="padding: 14px; font-family: ui-sans-serif, system-ui;">
+    <strong>Movie Grid Maker</strong><br/>
+    <span style="font-size: 13px; color:#666;">React · API</span>
+  </div>
+</div>
 
-<sub style="color:#888;">[ press start ]</sub>
+<div style="border: 1px solid #ddd; background: #f6f6f3;">
+  <div style="background: #eaf7e8; height: 110px;"></div>
+  <div style="padding: 14px; font-family: ui-sans-serif, system-ui;">
+    <strong>Coffee Sales Dashboard</strong><br/>
+    <span style="font-size: 13px; color:#666;">Python · Data Viz</span>
+  </div>
+</div>
 
+</div>
+
+---
+
+### Social
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-top: 10px;">
+
+<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
+  <strong>GitHub</strong><br/>
+  <a href="https://github.com/YOUR_USERNAME" style="font-size: 14px; color:#555;">github.com/your_username</a>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
+  <strong>Instagram</strong><br/>
+  <a href="https://instagram.com/YOUR_HANDLE" style="font-size: 14px; color:#555;">instagram.com/your_handle</a>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
+  <strong>LinkedIn</strong><br/>
+  <a href="https://linkedin.com/in/YOUR_PROFILE" style="font-size: 14px; color:#555;">linkedin.com/in/your_profile</a>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 14px; background: #fafafa; font-family: ui-sans-serif;">
+  <strong>Email</strong><br/>
+  <a href="mailto:your@email.com" style="font-size: 14px; color:#555;">your@email.com</a>
+</div>
+
+</div>
+
+---
+
+<div align="center" style="font-size: 13px; color: #777; margin-top: 30px;">
+<i>done</i>
 </div>
